@@ -1,1 +1,2 @@
-测试dev环境
+config:
+  info: this is config-info,version=1
